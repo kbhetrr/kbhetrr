@@ -4,4 +4,4 @@
 
 </div>
 
-### Education
+### 👋 Hi there 👋
