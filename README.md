@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/KyoungHwanKim/KyoungHwanKim.svg)](https://github.com/KyoungHwanKim)
+[![HitCount](http://hits.dwyl.com/KyoungHwanKim/readme.svg)](https://github.com/KyoungHwanKim)
 
 My Name is K
 
