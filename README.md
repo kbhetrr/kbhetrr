@@ -1,12 +1,10 @@
-### 👋 Hi there 👋
-
-# 🎓 Education
+## 🎓 Education
 - 신정고등학교 `2018.03 ~ 2021.01`
 - 차세대 보안리더 양성 프로그램 (Best of the Best) 9기 보안제품개발 트랙 `2020.07 ~ 2021.03`
 - 부산대학교 정보컴퓨터공학부 `2021.03 ~`
 - SW Maestro 12기 연수생 `2021.04 ~ `
 
-# 📄 Paper
+## 📄 Paper
 ### Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 (1st-author)
 #### Building Light-weight Convolutional Neural Networks for Handwritten Chinese Character Recognition Based on Inception modules
 - [DBpia](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847)
