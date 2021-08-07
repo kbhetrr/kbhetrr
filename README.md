@@ -7,8 +7,6 @@
 - SW Maestro 12기 연수생
   - `2021.04 ~ `
 
-<
-
 <h3> 📄 Paper </h3>
 
 - Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 (1st-author)
