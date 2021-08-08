@@ -22,4 +22,5 @@
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://kyounghwankim.github.io/)](https://kyounghwankim.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)](https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyounghwankim8)](https://www.facebook.com/kyounghwankim8) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyounghwankim8)](https://www.facebook.com/kyounghwankim8)
+[![Email Badge](https://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimkh7534@naver.com)](mailto:kimkh7534@naver.com)
