@@ -18,3 +18,7 @@
 
 [![Kyounghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungHwanKim&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://kyounghwankim.github.io/)](https://kyounghwankim.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)](https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)
