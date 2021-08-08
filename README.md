@@ -16,7 +16,8 @@
 
 <br />
 
-[![Kyounghwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyoungHwanKim&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Kyounghwan's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=KyoungHwanKim&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungHwanKim&layout=compact&theme=material-palenight)
 
 <br />
 
