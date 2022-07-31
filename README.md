@@ -1,16 +1,3 @@
-<div align="center">
-  
-  ![Kyounghwan's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=KyoungHwanKim&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyoungHwanKim&layout=compact&theme=material-palenight)
-  
-</div>
-
-<!--<div align="center">
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkh7534)](https://solved.ac/kimkh7534)
-  
-</div>-->
-
 <h3> 🎓 Education </h3>
 
 - 차세대 보안리더 양성 프로그램 (Best of the Best) 9기 보안제품개발 트랙
