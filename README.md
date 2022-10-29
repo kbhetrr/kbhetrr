@@ -5,9 +5,9 @@
 - 부산대학교 정보컴퓨터공학부
   - `2021.03 ~`
 - SW Maestro 12기 연수생
-  - `2021.04 ~ 2021.11`
+  - `2021.04 ~ 2021.12`
 
-<h3> 📄 Paper </h3>
+<h3> 📄 Paper </h3>p
 
 - **Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발** _(1st-author)_
   - Building Light-weight Convolutional Neural Networks for Handwritten Chinese Character Recognition Based on Inception modules
