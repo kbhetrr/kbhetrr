@@ -9,9 +9,9 @@
 ---
 
   <ul style="list-style-type:none;">
-    <li>귀족 : 피필틴(면세)</li>
-    <li>평민 : 마세우알틴(납세의무)</li>
-    <li>노예 : 탈르코틴/마예케(정복 도시 포로/채무불이행)</li>
+    <li>test1</li>
+    <li>test2</li>
+    <li>test3</li>
   </ul>
 
 ### 🏆 Awards & Experience 🎞️
