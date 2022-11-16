@@ -1,15 +1,10 @@
 # 김경환 (Kyounghwan Kim) 👋🏻
 
-### 👤 Information
-- 육군 사이버작전센터 (22.01 ~ 23.07)
-- E-mail : kimkh7534@naver.com
-
----
-
 ### 📖 Education
 - KITRI Best of the Best 9기 보안제품개발 트랙 (20.07 ~ 21.03)
 - 부산대학교 정보컴퓨터공학부 (21.03 ~ ?)
 - SW Maestro 12기 연수생 (21.04 ~ 21.12)
+- 육군 사이버작전센터 (22.01 ~ 23.07)
 
 ---
 
