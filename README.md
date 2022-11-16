@@ -20,6 +20,10 @@
   <br />🥉 KCC 주니어논문경진대회 한국정보과학회장상 (장려상)
   <br />🥇 부산 코딩경진대회 동서대학교 총장상 (금상)
   <br />🥉 소프트웨어 개발보안 경진대회 장려상 (Team B_Factcheck)
+- 2021
+  <br />🥈 제1회 PNU SW·AI 문제해결 경진대회 우수상
+  <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;제16회 TOPCIT 소프트웨어 역량검정 정기평가 515점 (수준 3)
+  <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;부산대학교 TOPCIT 성적 우수 장학생 선발
 - 2022
   <br />🥈 OSAM 군장병 공개 SW 해커톤 육군참모총장상 (Team ACOC)
 
