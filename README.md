@@ -31,3 +31,17 @@
 ### 📄 Paper
 - Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 _(1st-author)_
   - [DBpia](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847), [EIRIC](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=)
+  
+---
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyounghwankim&count_bg=%233D8CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+![](https://img.shields.io/github/followers/kyounghwankim?style=flat-square)
+<br />
+[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://kyounghwankim.github.io/)](https://kyounghwankim.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)](https://www.linkedin.com/in/kyounghwan-kim-1611681b9/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kyounghwankim8)](https://www.facebook.com/kyounghwankim8)
+[![Email Badge](https://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimkh7534@naver.com)](mailto:kimkh7534@naver.com)
+
+</div>
