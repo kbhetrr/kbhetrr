@@ -14,7 +14,7 @@
 <div>
   <strong>2019</strong>
   <ul>
-    <li>🥇 제1회 한국코드페어 과학기술정보통신부 장관상 (금상)</li>
+    <div>🥇 제1회 한국코드페어 과학기술정보통신부 장관상 (금상)</div>
     <li>🥇 빅데이터 기반, 더 나은 부산만들기 부산광역시 교육감상 (우수상)</li>
     <li>넥슨 청소년 프로그래밍 챌린지 TOP 500</li>
   </ul>
@@ -40,10 +40,16 @@
 
 ---
 
-### 📄 Paper
-- Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 _(1st-author)_
-  - [DBpia](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847), [EIRIC](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=)
-  
+### 📄 Papers
+<div>
+  <strong>2020</strong>
+  <ul>
+    <strong>Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 (1st-author)</strong>
+    <li>Building Light-weight Convolutional Neural Networks for Handwritten Chinese Character Recognition Based on Inception modules</li>
+    <li><a href=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847>DBpia<a/>, <a href="https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=">EIRIC</a></li>
+  </ul>
+</div>
+
 ---
 
 <div align=center>
