@@ -16,7 +16,7 @@
   <ul>
     <li>🥇 제1회 한국코드페어 <strong>과학기술정보통신부 장관상</strong> (금상)</li>
     <li>🥇 빅데이터 기반, 더 나은 부산만들기 <strong>부산광역시 교육감상</strong> (우수상)</li>
-    <li>넥슨 청소년 프로그래밍 챌린지 TOP 500</li>
+    <li>NYPC 넥슨 청소년 프로그래밍 챌린지 TOP 500</li>
   </ul>
   <strong>2020</strong>
   <ul>
@@ -24,7 +24,7 @@
     <li>KCC 한국컴퓨터종합학술대회 논문 투고 및 발표</li>
     <li>🥉 KCC 주니어논문경진대회 <strong>한국정보과학회장상</strong> (장려상)</li>
     <li>🥇 부산 코딩경진대회 <strong>동서대학교 총장상</strong> (금상)</li>
-    <li>🥉 소프트웨어 개발보안 경진대회 <strong>한국정보보호학회장상</strong> (장려상, Team B_Factcheck)</li>
+    <li>🥉 소프트웨어 개발보안 경진대회 <strong>한국정보보호학회장상</strong> (장려상 / Team B_Factcheck)</li>
   </ul>
   <strong>2021</strong>
   <ul>
