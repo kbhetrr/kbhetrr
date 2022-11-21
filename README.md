@@ -23,7 +23,7 @@
     <li>Intel ISEF 국제과학기술경진대회 한국대표 선발전 진출 및 발표</li>
     <li>KCC 한국컴퓨터종합학술대회 논문 투고 및 발표</li>
     <li>🥉 KCC 주니어논문경진대회 <strong>한국정보과학회장상</strong> (장려상)</li>
-    <li>🥇 부산 코딩경진대회 <strong>동서대학교 총장상</strong> (금상)</li>
+    <li>🥇 부산 코딩경진대회 고등부 <strong>동서대학교 총장상</strong> (금상)</li>
     <li>🥉 소프트웨어 개발보안 경진대회 <strong>한국정보보호학회장상</strong> (장려상 / Team B_Factcheck)</li>
   </ul>
   <strong>2021</strong>
