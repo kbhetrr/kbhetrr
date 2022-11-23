@@ -1,10 +1,10 @@
 # 김경환 (Kyounghwan Kim) 👋🏻
 
 ### 📖 Education
-- KITRI Best of the Best 9기 보안제품개발 트랙 (20.07 ~ 21.03)
-- 부산대학교 정보컴퓨터공학부 (21.03 ~ ?)
-- SW Maestro 12기 연수생 (21.04 ~ 21.12)
-- 육군 사이버작전센터 (22.01 ~ 23.07)
+- KITRI Best of the Best 9th, Security Development (20.07 ~ 21.03)
+- Pusan National University, CSE (21.03 ~ ?)
+- SW Maestro 12th (21.04 ~ 21.12)
+- Army Cyber Operation Center (22.01 ~ 23.07)
 
 ---
 
