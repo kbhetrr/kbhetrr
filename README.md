@@ -55,7 +55,7 @@
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyounghwankim&count_bg=%233D8CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-![](https://img.shields.io/github/followers/kyounghwankim?style=flat-square)
+![](https://img.shields.io/github/followers/kbhetrr?style=flat-square)
 <br />
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://kyounghwankim.github.io/)](https://kyounghwankim.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kimkyounghwan/)](https://www.linkedin.com/in/kimkyounghwan/)
