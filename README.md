@@ -10,7 +10,7 @@
 
 
 
-### 🏆 Awards & Experience 🎞️
+### 🏆 Awards & Experience
 <div>
   <strong>2019</strong>
   <ul>
