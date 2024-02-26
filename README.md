@@ -1,5 +1,8 @@
 # Kyounghwan Kim (kbhetrr)
 
+### Information
+- Email: kbhetrr@gmail.com
+
 ### Education
 - Mar. 2021 - Present, Pusan National University, CSE
 - Mar. 2021 - Dec, 2021, SW Maestro 12th
