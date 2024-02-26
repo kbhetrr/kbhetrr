@@ -1,16 +1,24 @@
-## Kyounghwan Kim (kbhetrr)
+# Kyounghwan Kim (kbhetrr)
 
-### 📖 Education
-- KITRI Best of the Best 9th, Security Development (20.07 ~ 21.03)
-- Pusan National University, CSE (21.03 ~ ?)
-- SW Maestro 12th (21.04 ~ 21.12)
-- Army Cyber Operation Center (22.01 ~ 23.07)
+### Education
+- Mar. 2021 - Present, Pusan National University, CSE
+- Mar. 2021 - Dec, 2021, SW Maestro 12th
+- Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Security Development
 
+### Work Experience
+- Jan. 2022 - Jul. 2023, Army Cyber Operation Center, CERT
+  
 ---
 
+### Awards
+- 2019 제1회 한국코드페어, 과학기술정보통신부 장관상 (금상)
+- 2020 KCC 주니어논문경진대회, 한국정보과학회장상 (장려상)
+- 2020 부산 코딩경진대회, 동서대학교 총장상 (금상)
+- 2020 소프트웨어 개발보안 경진대회, 한국정보보호학회장상 (장려상 / Team B_Factcheck)
+- 2021 제1회 PNU SW·AI 문제해결 경진대회, 우수상
+- 2022 OSAM 군장병 공개 SW 해커톤, 육군참모총장상 (Team ACOC)
 
-
-### 🏆 Awards & Experience
+<!--
 <div>
   <strong>2019</strong>
   <ul>
@@ -37,19 +45,25 @@
     <li>🥈 OSAM 군장병 공개 SW 해커톤 <strong>육군참모총장상</strong> (Team ACOC)</li>
   </ul>
 </div>
+-->
 
 ---
 
-### 📄 Papers
-<div>
-  <ul>
-    <strong>Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 (1st-author)</strong>
-    <ul>
-      <li><a href=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847>DBpia<a/>, <a href="https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=">EIRIC</a></li>
-    </ul>
-  </ul>
-</div>
+### Projects
+- [View More](https://kbhetrr.dev/project)
 
+### Papers
+
+<details>
+  <summary>2020</summary>
+  
+- Building Light-weight Convolutional Neural Networks for Handwritten Chinese Character Recognition Based on Inception modules
+  - [DBpia](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847)
+  - [EIRIC](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=)
+    
+</details>
+
+<!--
 ---
 
 <div align=center>
@@ -63,3 +77,4 @@
 [![Email Badge](https://img.shields.io/badge/-Naver%20Mail-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:kimkh7534@naver.com)](mailto:kimkh7534@naver.com)
 
 </div>
+-->
