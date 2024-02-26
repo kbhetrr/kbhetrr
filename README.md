@@ -5,7 +5,7 @@
 
 ### Education
 - Mar. 2021 - Present, Pusan National University, CSE
-- Mar. 2021 - Dec, 2021, SW Maestro 12th
+- Mar. 2021 - Dec. 2021, SW Maestro 12th
 - Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Security Development
 
 ### Work Experience
