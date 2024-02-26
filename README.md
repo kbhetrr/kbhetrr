@@ -1,4 +1,4 @@
-# Kyounghwan Kim (kbhetrr)
+## Kyounghwan Kim (kbhetrr)
 
 ### 📖 Education
 - KITRI Best of the Best 9th, Security Development (20.07 ~ 21.03)
