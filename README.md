@@ -35,7 +35,7 @@
 <details>
   <summary><b>2021</b></summary>
   
-- 제1회 PNU SW·AI 문제해결 경진대회, 우수상
+- 제1회 PNU SW·AI 문제해결 경진대회, 부산대학교 소프트웨어교육센터장상 (우수상)
 </details>
 
 <details>
