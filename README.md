@@ -9,7 +9,7 @@
 - Jul. 2020 - Mar. 2021, KITRI Best of the Best 9th, Security Development
 
 ### Work Experience
-- Feb. 2024 - Present, PNU Computer Security Lab
+- Feb. 2024 - Present, PNU CSLab, Undergraduate Researcher
 - Jan. 2022 - Jul. 2023, Army Cyber Operation Center, CERT
   
 ---
