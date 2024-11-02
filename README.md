@@ -48,7 +48,8 @@
   <summary><b>2024</b></summary>
   
 - 머신러닝 기법을 활용한 ROS 2 의 콜백 실행 시간 분석 및 이상 탐지 (Anomaly Detection on Callback Duration in ROS 2 with Machine Learning)
-  - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4096783)  
+  - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4096783)
+- ARM MTE를 이용한 메모리 보호 기술 연구 동향 분석 (A Study Trend on Memory Protection Techniques with ARM MTE)
 </details>
 <!--
 <div>
