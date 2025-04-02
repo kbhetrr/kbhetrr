@@ -53,6 +53,14 @@
 - ARM MTE를 이용한 메모리 보호 기술 연구 동향 분석 (A Study Trend on Memory Protection Techniques with ARM MTE)
   - [KoreaScience](https://doi.org/10.3745/PKIPS.y2024m10a.197)
 </details>
+
+<details>
+  <summary><b>2025</b></summary>
+  
+- Watch Your Callback: Offline Anomaly Detection using Machine Learning in ROS 2
+  - [IEEE Access](https://ieeexplore.ieee.org/document/10947045)
+</details>
+
 <!--
 <div>
   <strong>2019</strong>
