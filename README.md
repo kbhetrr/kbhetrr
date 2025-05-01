@@ -1,4 +1,4 @@
-# Kyounghwan Kim (kbhetrr)
+# kbhetrr (Kyounghwan Kim)
 
 ### Information
 - Email: kbhetrr@gmail.com
