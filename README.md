@@ -1,7 +1,7 @@
 # kbhetrr (Kyounghwan Kim)
 
 ### Information
-- Email: kbhetrr@gmail.com
+- Email: kbhetrr@gmail.com (kyounghwankim@pusan.ac.kr)
 
 ### Education
 - Mar. 2021 - Present, Pusan National University, CSE
