@@ -47,7 +47,7 @@
 <details>
   <summary><b>2024</b></summary>
   
-- 머신러닝 기법을 활용한 ROS 2 의 콜백 실행 시간 분석 및 이상 탐지 (Anomaly Detection on Callback Duration in ROS 2 with Machine Learning)
+- 머신러닝 기법을 활용한 ROS 2의 콜백 실행 시간 분석 및 이상 탐지 (Anomaly Detection on Callback Duration in ROS 2 with Machine Learning)
   - [KoreaScience](https://doi.org/10.3745/PKIPS.y2024m05a.233)
   - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4096783)
 - ARM MTE를 이용한 메모리 보호 기술 연구 동향 분석 (A Study Trend on Memory Protection Techniques with ARM MTE)
@@ -61,6 +61,8 @@
   
 - Watch Your Callback: Offline Anomaly Detection using Machine Learning in ROS 2
   - [IEEE Access](https://ieeexplore.ieee.org/document/10947045)
+- ROS 기반 신뢰성 및 이상 탐지 방법론의 micro-ROS 적용 방안에 대한 연구 (Feasibility Study of Applying ROS-Based Reliability and Anomaly Detection to micro-ROS)
+  - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4176772)
 </details>
 
 <!--
