@@ -52,6 +52,7 @@
   - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4096783)
 - ARM MTE를 이용한 메모리 보호 기술 연구 동향 분석 (A Study Trend on Memory Protection Techniques with ARM MTE)
   - [KoreaScience](https://doi.org/10.3745/PKIPS.y2024m10a.197)
+  - [KISS](https://kiss.kstudy.com/Detail/Ar?key=4155867)
 - Method and device for detecting fault in robot operating system 2 environment using machine learning
   - Korean Patent Application (No.10-2024-0139454)
 </details>
