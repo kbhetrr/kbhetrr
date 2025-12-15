@@ -67,6 +67,7 @@
 - ROS 기반 신뢰성 및 이상 탐지 방법론의 micro-ROS 적용 방안에 대한 연구
   - Feasibility Study of Applying ROS-Based Reliability and Anomaly Detection to micro-ROS
   - ASK 2025 ([KoreaScience](https://doi.org/10.3745/PKIPS.y2025m05a.232) / [KISS](https://kiss.kstudy.com/Detail/Ar?key=4176772))
+- ACSAC 2025 CTF 2nd Prize
 </details>
 
 <!--
