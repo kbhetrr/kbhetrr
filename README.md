@@ -61,13 +61,20 @@
   <summary><b>2025</b></summary>
   
 - ELK: Effective Lock-and-Key Technique for Temporal Memory Safety on Embedded Devices in ARMv8-M
-  - ACSAC'25
+  - [ACSAC'25](https://doi.org/10.1109/ACSAC67867.2025.00030)
 - Watch Your Callback: Offline Anomaly Detection using Machine Learning in ROS 2
-  - [IEEE Access](https://ieeexplore.ieee.org/document/10947045)
+  - [IEEE Access](https://doi.org/10.1109/ACCESS.2025.3556864)
 - ROS 기반 신뢰성 및 이상 탐지 방법론의 micro-ROS 적용 방안에 대한 연구
   - Feasibility Study of Applying ROS-Based Reliability and Anomaly Detection to micro-ROS
   - ASK 2025 ([KoreaScience](https://doi.org/10.3745/PKIPS.y2025m05a.232) / [KISS](https://kiss.kstudy.com/Detail/Ar?key=4176772))
-- ACSAC 2025 CTF 2nd Prize
+- ACSAC 2025 Capture The Flag (CTF) 2nd Place
+</details>
+
+<details>
+  <summary><b>2026</b></summary>
+
+- SERA: Secure Micro XRCE-DDS Establishment with Remote Attestation for micro-ROS
+  - [IEEE Access](http://doi.org/10.1109/ACCESS.2026.3655366)
 </details>
 
 <!--
