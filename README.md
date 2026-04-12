@@ -75,6 +75,7 @@
 
 - SERA: Secure Micro XRCE-DDS Establishment with Remote Attestation for micro-ROS
   - [IEEE Access](http://doi.org/10.1109/ACCESS.2026.3655366)
+- Reviewer, 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 </details>
 
 <!--
