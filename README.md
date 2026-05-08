@@ -76,6 +76,10 @@
 - SERA: Secure Micro XRCE-DDS Establishment with Remote Attestation for micro-ROS
   - [IEEE Access](http://doi.org/10.1109/ACCESS.2026.3655366)
 - Reviewer, 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- HWASan의 Short Granule 기법에 대한 성능 및 오류 검출 효과 분석
+  - Performanceand Error Detection Effectiveness Analysisof Short Granule Mechanism in HWASan
+  - CISC-S'26
+- 2026 정보보호학회 하계학술대회 (CISC-S'26) 학회우수논문상 (학부생)
 </details>
 
 <!--
