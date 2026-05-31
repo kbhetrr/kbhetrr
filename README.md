@@ -26,7 +26,6 @@
   
 - KCC 주니어논문경진대회, 한국정보과학회장상 (장려상)
 - 부산 코딩경진대회, 동서대학교 총장상 (금상)
-- 소프트웨어 개발보안 경진대회, 한국정보보호학회장상 (장려상 / Team B_Factcheck)
 - Inception 모듈 기반의 경량화된 한자 필기체 인식 모델 개발 (Building Light-weight Convolutional Neural Networks for Handwritten Chinese Character Recognition Based on Inception modules)
   - [DBpia](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874847)
   - [EIRIC](https://www.eiric.or.kr/literature/ser_view.php?SnxGubun=INKO&mode=total&searchCate=literature&gu=INME000G0&cmd=qryview&SnxIndxNum=234020&rownum=&totalCnt=2&rownum=2&q1_t=aW5jZXB0aW9uIOuqqOuTiA==&listUrl=L3NlYXJjaC9yZXN1bHQucGhwP1NueEd1YnVuPUlOS08mbW9kZT10b3RhbCZzZWFyY2hDYXRlPWxpdGVyYXR1cmUmcTE9aW5jZXB0aW9uKyVCOCVGMCVCNSVFMiZ4PTAmeT0w&q1=inception+%B8%F0%B5%E2&kci=)
