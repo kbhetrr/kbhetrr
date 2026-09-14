@@ -1,4 +1,4 @@
-```diff
+```
 
 https://kbhetrr.dev
 
