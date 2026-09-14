@@ -1,3 +1,9 @@
+```diff
+
+https://kbhetrr.dev
+
+```
+<!--
 ## kbhetrr (Kyounghwan Kim)
 
 ### Information
@@ -108,13 +114,13 @@
     <li>🥈 OSAM 군장병 공개 SW 해커톤 <strong>육군참모총장상</strong> (Team ACOC)</li>
   </ul>
 </div>
--->
 
 ---
 
 ### Projects
 - [View More](https://kbhetrr.dev/project)
 
+-->
 
 <!--
 ---
